@@ -1,1 +1,2 @@
-print("yjjnb!")
+name = input()
+print(f"{name}nb!")

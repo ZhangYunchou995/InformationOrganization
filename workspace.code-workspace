@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/test1/__pycache__"
+		},
+		{
+			"path": "../../Downloads/test1/static"
+		},
+		{
+			"path": "../../Downloads/test1/templates"
+		},
+		{
+			"path": "../../Downloads/test1/venv"
+		}
+	],
+	"settings": {}
+}
